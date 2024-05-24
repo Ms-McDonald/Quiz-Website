@@ -1,0 +1,82 @@
+[
+    {
+      "question": "How do you declare a variable in JavaScript?",
+      "answer1": "(a) let name = 'value';",
+      "answer2": "(b) let name : 'value';",
+      "answer3": "(c) define name = 'value';",
+      "answer4": "(d) create name = 'value';",
+      "correct": "a"
+    },
+    {
+      "question": "What is the correct way to write an if statement in JavaScript?",
+      "answer1": "(a) if (condition) then { code }",
+      "answer2": "(b) if condition { code }",
+      "answer3": "(c) if (condition) { code }",
+      "answer4": "(d) if = condition: code",
+      "correct": "c"
+    },
+    {
+      "question": "What is an array in JavaScript?",
+      "answer1": "(a) A collection of ordered data items of various types.",
+      "answer2": "(b) A function that performs a specific task.",
+      "answer3": "(c) A variable that can store a single value.",
+      "answer4": "(d) A way to style web pages.",
+      "correct": "a"
+    },
+    {
+      "question": "What is the data type returned by the typeof operator?",
+      "answer1": "(a) Boolean",
+      "answer2": "(b) String",
+      "answer3": "(c) The data type itself (e.g., 'number', 'string')",
+      "answer4": "(d) Array",
+      "correct": "c"
+    },
+    {
+      "question": "Which loop iterates a certain number of times based on a counter?",
+      "answer1": "(a) while loop",
+      "answer2": "(b) for...of loop",
+      "answer3": "(c) forEach loop",
+      "answer4": "(d) do...while loop",
+      "correct": "b"
+    },
+    {
+      "question": "How do you access an element by its ID in the DOM using JavaScript?",
+      "answer1": "(a) getElement('id')",
+      "answer2": "(b) getElementById('id')",
+      "answer3": "(c) getDocument.id('id')",
+      "answer4": "(d) find element by ID('id')",
+      "correct": "b"
+    },
+    {
+      "question": "What is the difference between == and === in JavaScript?",
+      "answer1": "(a) There is no difference, they both check for equality.",
+      "answer2": "(b) == checks for loose equality (value may be the same but type can differ), === checks for strict equality (value and type must be the same).",
+      "answer3": "(c) == is used for assigning values, === is used for comparison.",
+      "answer4": "(d) == is faster, === is slower.",
+      "correct": "b"
+    },
+    {
+      "question": "How do you add an element to the end of an array in JavaScript?",
+      "answer1": "(a) push(element) method",
+      "answer2": "(b) append(element) method",
+      "answer3": "(c) add(element) method",
+      "answer4": "(d) insert(element) method",
+      "correct": "a"
+    },
+    {
+      "question": "What is an event listener in JavaScript?",
+      "answer1": "(a) A function that is triggered when a user interacts with a web page element (e.g., click, hover).",
+      "answer2": "(b) A variable that stores user input.",
+      "answer3": "(c) A loop that iterates through a set of data.",
+      "answer4": "(d) A way to define a website's layout.",
+      "correct": "a"
+    },
+    {
+      "question": "What is the primary purpose of a function in JavaScript?",
+      "answer1": "(a) To define the overall structure of a web page.",
+      "answer2": "(b) To reuse a block of code multiple times.",
+      "answer3": "(c) To store global variables.",
+      "answer4": "(d) To style HTML elements.",
+      "correct": "b"
+    }
+  ]
